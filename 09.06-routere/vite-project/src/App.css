@@ -1,0 +1,29 @@
+header h1{
+    text-align: center;
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
+a.active{
+    background-color: brown;
+}
+.footer{
+    background-color: blue;
+}
+.footer h1{
+    text-align: center;
+}
+.page{
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
